@@ -29,83 +29,14 @@ Hysia Video to Retail 平台" href="#hysia-video-to-retail-platform" _mstaria-la
 <li><font _mstmutation="1" _msttexthash="104872118" _msthash="268">上传视频并通过选择不同的模型进行处理</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/select-models.gif" data-target="animated-image.originalLink"><img src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/select-models.gif" alt="选择模型" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="224874" _msthash="269"></a>
       
 </li>
-<li><font _mstmutation="1" _msttexthash="33019857" _msthash="274">显示视频处理结果</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/display-analytic-result.gif" data-target="animated-image.originalLink"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/display-analytic-result.gif" alt="显示分析结果" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="557609" _msthash="275"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/display-analytic-result.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="display-analytic-result" class="AnimatedImagePlayer-animatedImage" src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/display-analytic-result.gif" _msthidden="A" _mstalt="557609" _msthash="276" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="775" height="436"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play display-analytic-result" hidden="" _msthidden="A" _mstaria-label="726544" _msthash="277"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play display-analytic-result" _msthidden="A" _mstaria-label="726544" _msthash="278">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open display-analytic-result in new window" class="AnimatedImagePlayer-button" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/display-analytic-result.gif" target="_blank" _msthidden="A" _mstaria-label="1339494" _msthash="279">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+<li><font _mstmutation="1" _msttexthash="33019857" _msthash="274">显示视频处理结果</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/display-analytic-result.gif" data-target="animated-image.originalLink"><img src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/display-analytic-result.gif" alt="显示分析结果" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="557609" _msthash="275"></a>
+       
 </li>
 <li><font _mstmutation="1" _msttexthash="37664341" _msthash="280">按图像和文本搜索场景</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/search-result.gif" data-target="animated-image.originalLink"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/search-result.gif" alt="搜索结果" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="229268" _msthash="281"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/search-result.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="search-result" class="AnimatedImagePlayer-animatedImage" src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/search-result.gif" _msthidden="A" _mstalt="229268" _msthash="282" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="775" height="436"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play search-result" hidden="" _msthidden="A" _mstaria-label="344851" _msthash="283"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play search-result" _msthidden="A" _mstaria-label="344851" _msthash="284">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open search-result in new window" class="AnimatedImagePlayer-button" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/search-result.gif" target="_blank" _msthidden="A" _mstaria-label="800631" _msthash="285">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+      
 </li>
-<li><font _mstmutation="1" _msttexthash="55465319" _msthash="286">插入产品广告并显示插入结果</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/view-ads.gif" data-target="animated-image.originalLink"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/view-ads.gif" alt="查看广告" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="108342" _msthash="287"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/view-ads.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="view-ads" class="AnimatedImagePlayer-animatedImage" src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/view-ads.gif" _msthidden="A" _mstalt="108342" _msthash="288" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="775" height="436"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play view-ads" hidden="" _msthidden="A" _mstaria-label="195533" _msthash="289"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play view-ads" _msthidden="A" _mstaria-label="195533" _msthash="290">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open view-ads in new window" class="AnimatedImagePlayer-button" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/view-ads.gif" target="_blank" _msthidden="A" _mstaria-label="572728" _msthash="291">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+<li><font _mstmutation="1" _msttexthash="55465319" _msthash="286">插入产品广告并显示插入结果</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/view-ads.gif" data-target="animated-image.originalLink"><img src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/view-ads.gif" alt="查看广告" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="108342" _msthash="287"></a>
+       
 </li>
 </ol>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5209451" _msthash="292">特征</h2><a id="user-content-features" class="anchor" aria-label="永久链接：功能" href="#features" _mstaria-label="370552" _msthash="293"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
