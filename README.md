@@ -13,7 +13,7 @@ Hysia Video to Retail 平台" href="#hysia-video-to-retail-platform" _mstaria-la
 与系统配套的应用，如产品推荐、视频检索等。提供了几个示例。</p>
 <p dir="auto" _msttexthash="484345797" _msthash="258">该系统目前正在积极开发中。欢迎您在此处创建 issue、pull request。我们会把功劳归功于他们
 到我们的下一个版本中。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/hysia-block-diagram.png"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/hysia-block-diagram.png" alt="Hysia 框图" style="max-width: 100%;" _mstalt="390390" _msthash="259"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/hysia-block-diagram.png"><img src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/hysia-block-diagram.png" alt="Hysia 框图" style="max-width: 100%;" _mstalt="390390" _msthash="259"></a></p>
 <p align="center" dir="auto">
     <font _mstmutation="1" _msttexthash="93425072" _msthash="260"><a href="#showcase" _mstmutation="1" _istranslated="1">展示</a> • <a href="#features" _mstmutation="1" _istranslated="1">功能</a> • <a href="#setup-environment" _mstmutation="1" _istranslated="1">设置环境</a> • <a href="#configuration" _mstmutation="1" _istranslated="1">配置</a> • <a href="#demo" _mstmutation="1" _istranslated="1">演示</a> • <a href="#paper-citation" _mstmutation="1" _istranslated="1">引文</a></font>
 </p>
@@ -24,33 +24,10 @@ Hysia Video to Retail 平台" href="#hysia-video-to-retail-platform" _mstaria-la
 <li _msttexthash="179660624" _msthash="264">（2020-05） 你可以轻松地将你的模型绑定到我们的系统</li>
 </ul>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5378503" _msthash="265">展示</h2><a id="user-content-showcase" class="anchor" aria-label="永久链接：Showcase" href="#showcase" _mstaria-label="368407" _msthash="266"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto" _msttexthash="43276662" _msthash="267">👉 <a href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/Showcase.md" _istranslated="1">展示</a>的完整列表。</p>
+<p dir="auto" _msttexthash="43276662" _msthash="267">👉 <a href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/Showcase.md" _istranslated="1">展示</a>的完整列表。</p>
 <ol dir="auto">
-<li><font _mstmutation="1" _msttexthash="104872118" _msthash="268">上传视频并通过选择不同的模型进行处理</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/select-models.gif" data-target="animated-image.originalLink"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/select-models.gif" alt="选择模型" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="224874" _msthash="269"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/select-models.gif" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="select-models" class="AnimatedImagePlayer-animatedImage" src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/select-models.gif" _msthidden="A" _mstalt="224874" _msthash="270" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="775" height="436"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play select-models" hidden="" _msthidden="A" _mstaria-label="339573" _msthash="271"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="" _msthidden="2">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play select-models" _msthidden="A" _mstaria-label="339573" _msthash="272">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open select-models in new window" class="AnimatedImagePlayer-button" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/select-models.gif" target="_blank" _msthidden="A" _mstaria-label="795353" _msthash="273">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+<li><font _mstmutation="1" _msttexthash="104872118" _msthash="268">上传视频并通过选择不同的模型进行处理</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/select-models.gif" data-target="animated-image.originalLink"><img src="https://github.com/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/select-models.gif" alt="选择模型" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="224874" _msthash="269"></a>
+      
 </li>
 <li><font _mstmutation="1" _msttexthash="33019857" _msthash="274">显示视频处理结果</font><p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/cap-ntu/Video-to-Retail-Platform/blob/hysia_v2/docs/img/display-analytic-result.gif" data-target="animated-image.originalLink"><img src="/cap-ntu/Video-to-Retail-Platform/raw/hysia_v2/docs/img/display-analytic-result.gif" alt="显示分析结果" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="557609" _msthash="275"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="" _msthidden="4">
